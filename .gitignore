@@ -1,0 +1,19 @@
+node_modules/
+dist/
+coverage/
+
+npm-debug.log*
+pnpm-debug.log*
+*.log
+
+.DS_Store
+**/.DS_Store
+
+# 本地会话与日志（包含运行上下文，不应入库）
+data/
+*.ndjson
+
+# 系统与编辑器缓存
+.idea/
+.vscode/
+*.swp
