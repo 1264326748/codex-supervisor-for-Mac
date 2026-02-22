@@ -1,4 +1,4 @@
-# 任务主管控制台（codex-supervisor-desktop）
+# codex-supervisor-for-Mac（任务主管控制台）
 
 一个本地桌面控制台，用来把“一个复杂目标”拆成多窗口并行执行任务，统一观察输出、处理确认、回收结果。
 
