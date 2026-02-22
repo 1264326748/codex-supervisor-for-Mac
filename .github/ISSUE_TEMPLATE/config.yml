@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 使用与排查文档
+    url: https://github.com/1264326748/codex-supervisor-for-Mac/blob/main/README.md
+    about: 提交问题前建议先查看 README 里的常见排查部分

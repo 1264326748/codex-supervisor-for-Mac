@@ -172,6 +172,12 @@ tail -n 200 "/tmp/codex-supervisor-desktop-main.log"
 
 ---
 
+## 发布记录
+
+- [v0.1.0 发布说明](./docs/releases/v0.1.0.md)
+
+---
+
 ## License
 
 MIT License，见 [LICENSE](./LICENSE)
