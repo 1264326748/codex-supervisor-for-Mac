@@ -1,5 +1,10 @@
 # codex-supervisor-for-Mac（任务主管控制台）
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Platform: macOS](https://img.shields.io/badge/Platform-macOS-0f172a)](https://github.com/1264326748/codex-supervisor-for-Mac)
+[![Issues](https://img.shields.io/github/issues/1264326748/codex-supervisor-for-Mac)](https://github.com/1264326748/codex-supervisor-for-Mac/issues)
+[![Stars](https://img.shields.io/github/stars/1264326748/codex-supervisor-for-Mac?style=social)](https://github.com/1264326748/codex-supervisor-for-Mac/stargazers)
+
 一个本地桌面控制台，用来把“一个复杂目标”拆成多窗口并行执行任务，统一观察输出、处理确认、回收结果。
 
 > English: A local desktop control plane that coordinates one supervisor terminal and multiple worker terminals, with real-time logs, approval queue, structured dispatch, and recovery.
@@ -153,6 +158,17 @@ tail -n 200 "/tmp/codex-supervisor-desktop-main.log"
 欢迎提 Issue / PR。建议先看：
 
 - [CONTRIBUTING.md](./CONTRIBUTING.md)
+- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
+- [SECURITY.md](./SECURITY.md)
+
+---
+
+## 项目路线（Roadmap）
+
+- [ ] 提供安装包自动打包流程（Release 附件）
+- [ ] 增加会话筛选与关键事件过滤
+- [ ] 增加更细粒度的策略配置面板（按窗口/提示类型）
+- [ ] 补充更多端到端稳定性测试样例
 
 ---
 
